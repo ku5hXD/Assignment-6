@@ -1,0 +1,15 @@
+C:\Users\kUSh\dotNet Programs\Assignment-6\Collections\ObservableCollection\bin\Debug\net6.0\ObservableCollection.exe
+C:\Users\kUSh\dotNet Programs\Assignment-6\Collections\ObservableCollection\bin\Debug\net6.0\ObservableCollection.deps.json
+C:\Users\kUSh\dotNet Programs\Assignment-6\Collections\ObservableCollection\bin\Debug\net6.0\ObservableCollection.runtimeconfig.json
+C:\Users\kUSh\dotNet Programs\Assignment-6\Collections\ObservableCollection\bin\Debug\net6.0\ObservableCollection.dll
+C:\Users\kUSh\dotNet Programs\Assignment-6\Collections\ObservableCollection\bin\Debug\net6.0\ref\ObservableCollection.dll
+C:\Users\kUSh\dotNet Programs\Assignment-6\Collections\ObservableCollection\bin\Debug\net6.0\ObservableCollection.pdb
+C:\Users\kUSh\dotNet Programs\Assignment-6\Collections\ObservableCollection\obj\Debug\net6.0\ObservableCollection.csproj.AssemblyReference.cache
+C:\Users\kUSh\dotNet Programs\Assignment-6\Collections\ObservableCollection\obj\Debug\net6.0\ObservableCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kUSh\dotNet Programs\Assignment-6\Collections\ObservableCollection\obj\Debug\net6.0\ObservableCollection.AssemblyInfoInputs.cache
+C:\Users\kUSh\dotNet Programs\Assignment-6\Collections\ObservableCollection\obj\Debug\net6.0\ObservableCollection.AssemblyInfo.cs
+C:\Users\kUSh\dotNet Programs\Assignment-6\Collections\ObservableCollection\obj\Debug\net6.0\ObservableCollection.csproj.CoreCompileInputs.cache
+C:\Users\kUSh\dotNet Programs\Assignment-6\Collections\ObservableCollection\obj\Debug\net6.0\ObservableCollection.dll
+C:\Users\kUSh\dotNet Programs\Assignment-6\Collections\ObservableCollection\obj\Debug\net6.0\ref\ObservableCollection.dll
+C:\Users\kUSh\dotNet Programs\Assignment-6\Collections\ObservableCollection\obj\Debug\net6.0\ObservableCollection.pdb
+C:\Users\kUSh\dotNet Programs\Assignment-6\Collections\ObservableCollection\obj\Debug\net6.0\ObservableCollection.genruntimeconfig.cache

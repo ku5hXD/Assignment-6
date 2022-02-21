@@ -1,0 +1,15 @@
+C:\Users\kUSh\dotNet Programs\Assignment-6\Collections\Concurrent\bin\Debug\net6.0\Concurrent.exe
+C:\Users\kUSh\dotNet Programs\Assignment-6\Collections\Concurrent\bin\Debug\net6.0\Concurrent.deps.json
+C:\Users\kUSh\dotNet Programs\Assignment-6\Collections\Concurrent\bin\Debug\net6.0\Concurrent.runtimeconfig.json
+C:\Users\kUSh\dotNet Programs\Assignment-6\Collections\Concurrent\bin\Debug\net6.0\Concurrent.dll
+C:\Users\kUSh\dotNet Programs\Assignment-6\Collections\Concurrent\bin\Debug\net6.0\ref\Concurrent.dll
+C:\Users\kUSh\dotNet Programs\Assignment-6\Collections\Concurrent\bin\Debug\net6.0\Concurrent.pdb
+C:\Users\kUSh\dotNet Programs\Assignment-6\Collections\Concurrent\obj\Debug\net6.0\Concurrent.csproj.AssemblyReference.cache
+C:\Users\kUSh\dotNet Programs\Assignment-6\Collections\Concurrent\obj\Debug\net6.0\Concurrent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kUSh\dotNet Programs\Assignment-6\Collections\Concurrent\obj\Debug\net6.0\Concurrent.AssemblyInfoInputs.cache
+C:\Users\kUSh\dotNet Programs\Assignment-6\Collections\Concurrent\obj\Debug\net6.0\Concurrent.AssemblyInfo.cs
+C:\Users\kUSh\dotNet Programs\Assignment-6\Collections\Concurrent\obj\Debug\net6.0\Concurrent.csproj.CoreCompileInputs.cache
+C:\Users\kUSh\dotNet Programs\Assignment-6\Collections\Concurrent\obj\Debug\net6.0\Concurrent.dll
+C:\Users\kUSh\dotNet Programs\Assignment-6\Collections\Concurrent\obj\Debug\net6.0\ref\Concurrent.dll
+C:\Users\kUSh\dotNet Programs\Assignment-6\Collections\Concurrent\obj\Debug\net6.0\Concurrent.pdb
+C:\Users\kUSh\dotNet Programs\Assignment-6\Collections\Concurrent\obj\Debug\net6.0\Concurrent.genruntimeconfig.cache

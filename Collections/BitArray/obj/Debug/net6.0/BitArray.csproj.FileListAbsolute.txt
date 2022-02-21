@@ -1,0 +1,15 @@
+C:\Users\kUSh\dotNet Programs\Assignment-6\Collections\BitArray\bin\Debug\net6.0\BitArray.exe
+C:\Users\kUSh\dotNet Programs\Assignment-6\Collections\BitArray\bin\Debug\net6.0\BitArray.deps.json
+C:\Users\kUSh\dotNet Programs\Assignment-6\Collections\BitArray\bin\Debug\net6.0\BitArray.runtimeconfig.json
+C:\Users\kUSh\dotNet Programs\Assignment-6\Collections\BitArray\bin\Debug\net6.0\BitArray.dll
+C:\Users\kUSh\dotNet Programs\Assignment-6\Collections\BitArray\bin\Debug\net6.0\ref\BitArray.dll
+C:\Users\kUSh\dotNet Programs\Assignment-6\Collections\BitArray\bin\Debug\net6.0\BitArray.pdb
+C:\Users\kUSh\dotNet Programs\Assignment-6\Collections\BitArray\obj\Debug\net6.0\BitArray.csproj.AssemblyReference.cache
+C:\Users\kUSh\dotNet Programs\Assignment-6\Collections\BitArray\obj\Debug\net6.0\BitArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kUSh\dotNet Programs\Assignment-6\Collections\BitArray\obj\Debug\net6.0\BitArray.AssemblyInfoInputs.cache
+C:\Users\kUSh\dotNet Programs\Assignment-6\Collections\BitArray\obj\Debug\net6.0\BitArray.AssemblyInfo.cs
+C:\Users\kUSh\dotNet Programs\Assignment-6\Collections\BitArray\obj\Debug\net6.0\BitArray.csproj.CoreCompileInputs.cache
+C:\Users\kUSh\dotNet Programs\Assignment-6\Collections\BitArray\obj\Debug\net6.0\BitArray.dll
+C:\Users\kUSh\dotNet Programs\Assignment-6\Collections\BitArray\obj\Debug\net6.0\ref\BitArray.dll
+C:\Users\kUSh\dotNet Programs\Assignment-6\Collections\BitArray\obj\Debug\net6.0\BitArray.pdb
+C:\Users\kUSh\dotNet Programs\Assignment-6\Collections\BitArray\obj\Debug\net6.0\BitArray.genruntimeconfig.cache

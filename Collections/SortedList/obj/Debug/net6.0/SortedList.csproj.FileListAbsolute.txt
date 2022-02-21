@@ -1,0 +1,15 @@
+C:\Users\kUSh\dotNet Programs\Assignment-6\Collections\SortedList\bin\Debug\net6.0\SortedList.exe
+C:\Users\kUSh\dotNet Programs\Assignment-6\Collections\SortedList\bin\Debug\net6.0\SortedList.deps.json
+C:\Users\kUSh\dotNet Programs\Assignment-6\Collections\SortedList\bin\Debug\net6.0\SortedList.runtimeconfig.json
+C:\Users\kUSh\dotNet Programs\Assignment-6\Collections\SortedList\bin\Debug\net6.0\SortedList.dll
+C:\Users\kUSh\dotNet Programs\Assignment-6\Collections\SortedList\bin\Debug\net6.0\ref\SortedList.dll
+C:\Users\kUSh\dotNet Programs\Assignment-6\Collections\SortedList\bin\Debug\net6.0\SortedList.pdb
+C:\Users\kUSh\dotNet Programs\Assignment-6\Collections\SortedList\obj\Debug\net6.0\SortedList.csproj.AssemblyReference.cache
+C:\Users\kUSh\dotNet Programs\Assignment-6\Collections\SortedList\obj\Debug\net6.0\SortedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kUSh\dotNet Programs\Assignment-6\Collections\SortedList\obj\Debug\net6.0\SortedList.AssemblyInfoInputs.cache
+C:\Users\kUSh\dotNet Programs\Assignment-6\Collections\SortedList\obj\Debug\net6.0\SortedList.AssemblyInfo.cs
+C:\Users\kUSh\dotNet Programs\Assignment-6\Collections\SortedList\obj\Debug\net6.0\SortedList.csproj.CoreCompileInputs.cache
+C:\Users\kUSh\dotNet Programs\Assignment-6\Collections\SortedList\obj\Debug\net6.0\SortedList.dll
+C:\Users\kUSh\dotNet Programs\Assignment-6\Collections\SortedList\obj\Debug\net6.0\ref\SortedList.dll
+C:\Users\kUSh\dotNet Programs\Assignment-6\Collections\SortedList\obj\Debug\net6.0\SortedList.pdb
+C:\Users\kUSh\dotNet Programs\Assignment-6\Collections\SortedList\obj\Debug\net6.0\SortedList.genruntimeconfig.cache

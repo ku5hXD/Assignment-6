@@ -1,0 +1,15 @@
+C:\Users\kUSh\dotNet Programs\Assignment-6\Collections\Lookup\bin\Debug\net6.0\Lookup.exe
+C:\Users\kUSh\dotNet Programs\Assignment-6\Collections\Lookup\bin\Debug\net6.0\Lookup.deps.json
+C:\Users\kUSh\dotNet Programs\Assignment-6\Collections\Lookup\bin\Debug\net6.0\Lookup.runtimeconfig.json
+C:\Users\kUSh\dotNet Programs\Assignment-6\Collections\Lookup\bin\Debug\net6.0\Lookup.dll
+C:\Users\kUSh\dotNet Programs\Assignment-6\Collections\Lookup\bin\Debug\net6.0\ref\Lookup.dll
+C:\Users\kUSh\dotNet Programs\Assignment-6\Collections\Lookup\bin\Debug\net6.0\Lookup.pdb
+C:\Users\kUSh\dotNet Programs\Assignment-6\Collections\Lookup\obj\Debug\net6.0\Lookup.csproj.AssemblyReference.cache
+C:\Users\kUSh\dotNet Programs\Assignment-6\Collections\Lookup\obj\Debug\net6.0\Lookup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kUSh\dotNet Programs\Assignment-6\Collections\Lookup\obj\Debug\net6.0\Lookup.AssemblyInfoInputs.cache
+C:\Users\kUSh\dotNet Programs\Assignment-6\Collections\Lookup\obj\Debug\net6.0\Lookup.AssemblyInfo.cs
+C:\Users\kUSh\dotNet Programs\Assignment-6\Collections\Lookup\obj\Debug\net6.0\Lookup.csproj.CoreCompileInputs.cache
+C:\Users\kUSh\dotNet Programs\Assignment-6\Collections\Lookup\obj\Debug\net6.0\Lookup.dll
+C:\Users\kUSh\dotNet Programs\Assignment-6\Collections\Lookup\obj\Debug\net6.0\ref\Lookup.dll
+C:\Users\kUSh\dotNet Programs\Assignment-6\Collections\Lookup\obj\Debug\net6.0\Lookup.pdb
+C:\Users\kUSh\dotNet Programs\Assignment-6\Collections\Lookup\obj\Debug\net6.0\Lookup.genruntimeconfig.cache
